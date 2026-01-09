@@ -1,4 +1,11 @@
 # Applied Consciousness Lab (ACL)
+## GSS by ACL — Canonical Safety Framework
+
+This book and its teachings are aligned with the **Global Safety Standard (GSS by Applied Consciousness Lab)**.
+
+The living constitutional source of truth for all safety doctrine, appendices, and governance is:
+
+https://github.com/AppliedConsciousnessLab/GSS-by-ACL
 
 The Applied Consciousness Lab (ACL) is an open, public initiative dedicated to the study, standardization, and repair of safety, truth, and coherence in human systems.
 
