@@ -48,3 +48,12 @@ This work is intended to be:
 No permission is required beyond attribution.
 
 ---
+---
+
+## Support GSS by ACL
+
+GSS by ACL is free and open for the world.
+
+If you wish to support the research, publishing, translations, and safety work that keeps it alive, visit:
+
+https://github.com/AppliedConsciousnessLab/GSS-by-ACL/blob/main/SUPPORT.md
