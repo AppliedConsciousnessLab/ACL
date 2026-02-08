@@ -32,6 +32,18 @@ to provide civilization-scale tools for safety, diagnosis, and repair that stand
 - `/roadmap` — Chapter maps and planned expansions  
 - `/archive` — Historical drafts and retained notes
 
+
+## Canonical Context
+
+This repository is part of the Applied Consciousness Lab (ACL) public research ecosystem.
+
+All systems, subsystems, and doctrines herein assume prior satisfaction of the Global Safety Standard (GSS), a foundational safety primitive originally formulated under the Applied Safety Lab (ASL) framework and maintained, governed, and published by Applied Consciousness Lab (ACL).
+
+Safety precedes regulation.
+Regulation precedes agency.
+Agency precedes choice.
+
+This ordering is non-negotiable.
 ---
 
 ## Principles
