@@ -1,5 +1,4 @@
 # Societal Thermodynamics
-Applied Consciousness Lab (ACL)  
 © Applied Consciousness Lab (ACL)
 
 Dissertation Draft  
