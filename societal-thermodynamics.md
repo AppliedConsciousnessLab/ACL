@@ -347,11 +347,8 @@ In thermodynamic terms:
 
 ---
 
-Dissertation Draft — Applied Consciousness Lab
-
 © Applied Consciousness Lab (ACL)
 
 License: CC BY-SA
-
 
 Measuring what makes humans feel safe — and building systems that grow it.
