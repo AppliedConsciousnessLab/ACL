@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: Emotional Physics and Societal Thermodynamics Framework
+message: If you use this research, please cite it using the metadata below.
+type: software
+authors:
+  - family-names: Kurtis
+    given-names: Bradley Buchner
+    alias: BB
+affiliation: Applied Consciousness Lab
+repository-code: https://github.com/AppliedConsciousnessLab/EP-by-ACL
+license: CC-BY-SA-4.0
+abstract: >
+  Emotional Physics and Societal Thermodynamics propose that safety
+  functions as the thermodynamic substrate of civilization. The framework
+  models how distributed safety reduces societal entropy and enables
+  cooperation at scale.
+keywords:
+  - societal thermodynamics
+  - emotional physics
+  - safety systems
+  - civilization stability
+  - applied consciousness
+  - applied safety lab
