@@ -9,9 +9,9 @@ organized to remain readable, citable, and stable over time.
 
 This repository functions as the **core research library** for ACL.
 
-It contains the foundational conceptual documents that inform
-related repositories such as the Global Safety Standard,
-experimental testing environments, and applied system models.
+It contains the conceptual foundations that inform the broader
+ACL ecosystem of standards, experimental environments,
+and applied system models.
 
 ACL is intentionally structured to be:
 
@@ -19,7 +19,7 @@ ACL is intentionally structured to be:
 - Citable by institutions
 - Stable over time
 - Independent of any single author, platform, or personality
-- Compatible with external academic or policy use
+- Compatible with academic and policy environments
 
 ---
 
@@ -96,100 +96,139 @@ designed to function independently and may be referenced on its own.
 
 ---
 
-# Repository Role Within the ACL Ecosystem
+# ACL Ecosystem Architecture
 
-The Applied Consciousness Lab ecosystem is divided into several
+The Applied Consciousness Lab ecosystem is organized across several
 repositories that separate theory, standards, experimentation,
 and implementation.
 
-This repository serves as the **foundational research library**.
+This repository serves as the **core research library**.
 
-Other repositories include:
+---
 
-### Global Safety Standard
+## Global Safety Standard
 
 Defines the operational safety framework used across domains.
 
-Repository:
+Repository  
 https://github.com/AppliedConsciousnessLab/GSS-by-ACL
 
 ---
 
-### Testing-Theories
-
-Empirical research environment used to test theoretical models,
-including experimental frameworks such as the Societal Entropy
-Index (SEI).
-
-Repository:
-https://github.com/AppliedConsciousnessLab/Testing-Theories
-
----
-
-### Societal Thermodynamics
-
-Research exploring the Law of Societal Thermodynamics and its
-implications for stability and collapse in complex systems.
-
-Repository:
-https://github.com/AppliedConsciousnessLab/SOCIETAL_THERMODYNAMICS
-
----
-
-### Emotional Physics (Expanded)
+## Emotional Physics (Expanded)
 
 Canonical repository containing extended Emotional Physics
-documents and related research materials.
+documents and related theoretical work.
 
-Repository:
+Repository  
 https://github.com/AppliedConsciousnessLab/EP-by-ACL
 
 ---
 
-### CARE / PAYBACK Systems
+## Societal Thermodynamics
 
-Implementation frameworks applying safety and coherence
-principles to economic and institutional systems.
+Research exploring the Law of Societal Thermodynamics and its
+implications for stability and collapse in complex systems.
 
-Repository:
+Repository  
+https://github.com/AppliedConsciousnessLab/SOCIETAL_THERMODYNAMICS
+
+---
+
+## Testing Theories (Experimental Lab)
+
+Empirical research environment used to test theoretical models
+developed by the Applied Consciousness Lab.
+
+This repository contains experimental frameworks, supporting
+scientific literature, and datasets used to validate or challenge
+ACL theories.
+
+Repository  
+https://github.com/AppliedConsciousnessLab/Testing-Theories
+
+
+### Testing-Theories Internal Structure
+
+```
+Testing-Theories
+│
+├── README.md
+│
+├── sei/
+│   ├── sei-theory.md
+│   ├── sei-metrics.md
+│   └── sei-simulations.md
+│
+├── epigenetics/
+│   ├── overview.md
+│   ├── literature-review.md
+│   ├── supporting-studies.md
+│   └── implications-for-ep.md
+│
+├── neuroscience/
+│   ├── overview.md
+│   ├── regulation-research.md
+│   └── brain-safety-mechanisms.md
+│
+├── complexity-science/
+│   ├── overview.md
+│   ├── systems-dynamics.md
+│   └── collapse-patterns.md
+│
+└── datasets/
+```
+
+The Testing-Theories repository exists to separate **empirical
+investigation** from **theoretical claims**, ensuring that the
+scientific process remains transparent and reproducible.
+
+---
+
+## CARE / PAYBACK Systems
+
+Implementation frameworks applying safety and coherence principles
+to economic and institutional systems.
+
+Repository  
 https://github.com/AppliedConsciousnessLab/CARE-PAYBACK-by-ACL
 
 ---
 
-### Design Spine
+## Design Spine
 
-Defines the governance architecture and structural rules
-guiding development across the ACL ecosystem.
+Defines governance architecture and structural rules guiding
+development across the ACL ecosystem.
 
-Repository:
+Repository  
 https://github.com/AppliedConsciousnessLab/asl-design-spine
 
 ---
 
 # Design Principles
 
-All ACL materials follow several core constraints:
+All ACL materials follow several core constraints.
 
-**Open Access**
+### Open Access
 
 Frameworks are freely available for reading, sharing, and citation.
 
-**Non-Proprietary**
+### Non-Proprietary
 
 No specific platform, organization, or technology is required
 to use the ideas.
 
-**Non-Performative**
+### Non-Performative
 
 The work stands on its content rather than authorship or
 institutional affiliation.
 
-**Stability-First**
+### Stability-First
 
 Frameworks are intentionally conservative to minimize conceptual
 churn and preserve long-term usability.
 
-**Cross-Domain Compatibility**
+### Cross-Domain Compatibility
 
 Concepts are designed to apply across multiple domains including
 human psychology, governance systems, organizational dynamics,
