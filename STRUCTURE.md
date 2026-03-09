@@ -1,107 +1,240 @@
 # ACL Repository Structure
 
-This repository contains the public, open materials of the **Applied Consciousness Lab (ACL)**.  
-Its purpose is to define, preserve, and distribute foundational frameworks related to safety, coherence, and system dynamics in human, organizational, and civilizational contexts.
+This repository contains the public foundational materials of the
+Applied Consciousness Lab (ACL).
+
+ACL develops open frameworks that study **safety, coherence, and
+failure dynamics in human systems**. The work is intentionally
+organized to remain readable, citable, and stable over time.
+
+This repository functions as the **core research library** for ACL.
+
+It contains the foundational conceptual documents that inform
+related repositories such as the Global Safety Standard,
+experimental testing environments, and applied system models.
 
 ACL is intentionally structured to be:
+
 - Readable by non-specialists
 - Citable by institutions
 - Stable over time
 - Independent of any single author, platform, or personality
+- Compatible with external academic or policy use
 
 ---
 
-## Core Documents
+# Core Documents
 
-### 1. README.md
+## 1. README.md
+
 **Purpose:** Public orientation
 
 The README provides a high-level overview of:
-- What ACL is
-- Why it exists
-- How its materials should be interpreted and used
 
-This file is intended for first-time readers, collaborators, and institutions evaluating the repository.
+- What the Applied Consciousness Lab is
+- Why the research exists
+- How the materials should be interpreted
+- Where the broader ACL ecosystem can be found
+
+This file is intended for first-time readers, researchers,
+collaborators, and institutions evaluating the work.
 
 ---
 
-### 2. PREFACE.md
-**Purpose:** Context and intent
+## 2. PREFACE.md
+
+**Purpose:** Context and motivation
 
 The Preface explains:
-- Why the work was created
-- Why contributors are anonymous at this stage
-- The guiding motivation behind prioritizing safety and coherence
 
-This document sets ethical and philosophical context without asserting authority or ideology.
+- Why the research was initiated
+- Why contributors may remain anonymous
+- The ethical motivation behind prioritizing safety and coherence
 
----
-
-### 3. GSS.md — Global Safety Standards
-**Purpose:** Foundational safety framework
-
-GSS defines:
-- Safety as a primary prerequisite for functioning systems
-- Failure dynamics when safety is absent
-- Shared principles that apply across domains (individual, organizational, societal)
-
-GSS is designed to stand alone and to be referenced by external works, policies, and institutions.
+This document establishes philosophical context without asserting
+authority or ideology.
 
 ---
 
-### 4. EP.md — Emotional Physics
-**Purpose:** Mechanism-level explanation
+## 3. GSS.md — Global Safety Standard
 
-EP provides:
-- A descriptive model for how emotional and cognitive states propagate through systems
-- Language for coherence, instability, and feedback loops
-- A bridge between subjective experience and observable system behavior
+**Purpose:** Foundational safety doctrine
 
-EP complements GSS but is not dependent on it. Each may be used independently or together.
+The Global Safety Standard defines safety as the prerequisite
+condition for stable human systems.
 
----
+GSS describes:
 
-## Design Principles
+- System failure dynamics when safety collapses
+- Universal safety principles across domains
+- Structural requirements for resilient institutions
 
-ACL materials follow these constraints:
-
-- **Open access:** Freely available for reading, sharing, and reference
-- **Non-proprietary:** No platform, tool, or organization is required to use the ideas
-- **Non-performative:** The work stands on its content, not its authorship
-- **Stability-first:** Frameworks are intentionally conservative to reduce churn
+The Global Safety Standard is designed to stand alone and may be
+referenced by institutions, policy frameworks, or other research.
 
 ---
 
-## Relationship to Other Works
+## 4. EP.md — Emotional Physics
+
+**Purpose:** Mechanism-level explanatory framework
+
+Emotional Physics provides a descriptive model explaining how
+emotional and cognitive states propagate through systems.
+
+EP introduces language for:
+
+- Coherence and instability
+- Feedback loops
+- Emotional signal propagation
+- Human regulatory dynamics
+
+EP acts as a bridge between subjective human experience and
+observable system behavior.
+
+While related to the Global Safety Standard, Emotional Physics is
+designed to function independently and may be referenced on its own.
+
+---
+
+# Repository Role Within the ACL Ecosystem
+
+The Applied Consciousness Lab ecosystem is divided into several
+repositories that separate theory, standards, experimentation,
+and implementation.
+
+This repository serves as the **foundational research library**.
+
+Other repositories include:
+
+### Global Safety Standard
+
+Defines the operational safety framework used across domains.
+
+Repository:
+https://github.com/AppliedConsciousnessLab/GSS-by-ACL
+
+---
+
+### Testing-Theories
+
+Empirical research environment used to test theoretical models,
+including experimental frameworks such as the Societal Entropy
+Index (SEI).
+
+Repository:
+https://github.com/AppliedConsciousnessLab/Testing-Theories
+
+---
+
+### Societal Thermodynamics
+
+Research exploring the Law of Societal Thermodynamics and its
+implications for stability and collapse in complex systems.
+
+Repository:
+https://github.com/AppliedConsciousnessLab/SOCIETAL_THERMODYNAMICS
+
+---
+
+### Emotional Physics (Expanded)
+
+Canonical repository containing extended Emotional Physics
+documents and related research materials.
+
+Repository:
+https://github.com/AppliedConsciousnessLab/EP-by-ACL
+
+---
+
+### CARE / PAYBACK Systems
+
+Implementation frameworks applying safety and coherence
+principles to economic and institutional systems.
+
+Repository:
+https://github.com/AppliedConsciousnessLab/CARE-PAYBACK-by-ACL
+
+---
+
+### Design Spine
+
+Defines the governance architecture and structural rules
+guiding development across the ACL ecosystem.
+
+Repository:
+https://github.com/AppliedConsciousnessLab/asl-design-spine
+
+---
+
+# Design Principles
+
+All ACL materials follow several core constraints:
+
+**Open Access**
+
+Frameworks are freely available for reading, sharing, and citation.
+
+**Non-Proprietary**
+
+No specific platform, organization, or technology is required
+to use the ideas.
+
+**Non-Performative**
+
+The work stands on its content rather than authorship or
+institutional affiliation.
+
+**Stability-First**
+
+Frameworks are intentionally conservative to minimize conceptual
+churn and preserve long-term usability.
+
+**Cross-Domain Compatibility**
+
+Concepts are designed to apply across multiple domains including
+human psychology, governance systems, organizational dynamics,
+and civilizational risk.
+
+---
+
+# Relationship to External Work
 
 ACL frameworks may be:
-- Referenced by books, courses, policies, or software
-- Used as educational or institutional baselines
-- Integrated into other systems without modification
 
-ACL does not depend on any commercial product or ecosystem.  
-Commercial works may reference ACL, but ACL remains neutral and standalone.
+- Referenced by books, research papers, and courses
+- Used as baselines for institutional policy
+- Integrated into software systems or governance models
+- Expanded through independent research
+
+ACL itself remains neutral and independent of any commercial
+product, organization, or political structure.
 
 ---
 
-## Future Additions
+# Future Additions
 
 Additional documents may be added over time, but only if they:
+
 - Preserve backward compatibility
-- Do not invalidate existing frameworks
 - Improve clarity rather than expand scope
+- Maintain interpretability across disciplines
 
-Any future expansions will prioritize safety, coherence, and interpretability.
-
----
-
-## Licensing
-
-All materials in this repository are released under an open Creative Commons license, intended to maximize public benefit and long-term accessibility.
-
-No permission is required to read, share, or reference this work.
+The goal of ACL is not rapid expansion but **long-term conceptual
+stability**.
 
 ---
 
-**Applied Consciousness Lab (ACL)**  
-_Open frameworks for safety, coherence, and resilient human systems_
+# Licensing
+
+All materials in this repository are released under an open
+Creative Commons license intended to maximize public benefit
+and long-term accessibility.
+
+No permission is required to read, share, cite, or reference
+this work.
+
+---
+
+Applied Consciousness Lab (ACL)
+
+Open frameworks for safety, coherence, and resilient human systems
