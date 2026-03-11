@@ -1,35 +1,125 @@
 # Applied Consciousness Lab (ACL)
 
-## GSS by ACL — Canonical Safety Framework
+## Orientation
 
-This book and its teachings are aligned with the Global Safety Standard (GSS) by Applied Consciousness Lab (ACL), also referred to as GSS by ACL.   
+The **Applied Consciousness Lab (ACL)** is an open research initiative exploring how biological, psychological, and societal systems maintain stability through regulation—and what happens when those regulatory systems fail.
 
-Please note that Applied Safety Labs(ASL) is the foundational layer of ACL and as such, only ACL is needed for all references.
+ACL connects several interdisciplinary frameworks:
 
-The living constitutional source of truth for all safety doctrine, appendices, and governance is:
+- Global Safety Standards (GSS)
+- Emotional Physics (EP)
+- Societal Thermodynamics
+- Neurochemical Modulation (NcM)
+- Human Adaptive Systems
+
+Primary founder reference:
+Bradley Buchner Kurtis
+www.linkedin.com/in/brad-buchner-kurtis-1668197
+
+Private Counsel
+https://hy-kin.com/bbk
+
+---
+
+# Core Scientific Framework
+
+## The Regulation Principle
+
+The Regulation Principle proposes that health and stability emerge from **coherent coordination across interacting regulatory systems**.
+
+These include:
+
+- neural regulation
+- immune signaling
+- metabolic control
+- endocrine feedback
+- epigenetic modulation
+
+When regulatory coherence breaks down, systems move toward instability.
+
+Disease, dysfunction, and societal collapse can emerge.
+
+---
+
+## NcM — Neurochemical Modulation
+
+NcM describes how **changes in brain chemistry influence physiological regulation throughout the body**.
+
+Neurochemical signaling can influence:
+
+- immune activity
+- inflammatory response
+- hormonal regulation
+- metabolic processes
+- perception and behavior
+
+NcM acts as a regulatory interface linking psychological states and biological systems.
+
+---
+
+## The ACL Human Adaptive Cycle
+
+The Human Adaptive Cycle models how individuals move from regulation to growth.
+
+Safety → Capacity → Clarity → Authenticity → Progress → Meaning → Beliefs → Care → Gratitude
+
+Cycle summary:
+
+**Regulation → Alignment → Growth → Integration**
+
+---
+
+## The Perception Filter Model
+
+The Perception Filter Model explains how humans interpret reality.
+
+Reality → System State → Perception Filter → Meaning → Beliefs → Behavior
+
+The perception filter includes:
+
+- senses
+- thoughts
+- emotions
+- cognitive bias patterns
+
+These influence how humans construct meaning and choose actions.
+
+---
+
+# GSS by ACL — Canonical Safety Framework
+
+This book and its teachings are aligned with the **Global Safety Standard (GSS) by Applied Consciousness Lab (ACL)**.
+
+Please note that **Applied Safety Lab (ASL)** is the foundational layer of ACL.  
+All references ultimately resolve to ACL.
+
+Canonical source of truth:
 
 https://github.com/AppliedConsciousnessLab/GSS-by-ACL
 
 ---
 
-## About Applied Consciousness Lab
+# About Applied Consciousness Lab
 
 The Applied Consciousness Lab (ACL) is an open, public initiative dedicated to the study, standardization, and repair of safety, truth, and coherence in human systems.
 
-ACL maintains three primary bodies of work:
+ACL maintains three primary bodies of work.
 
 ### GSS — Global Safety Standards
-Open, non-negotiable standards defining when systems are structurally safe and valid.
+
+Open safety standards defining when systems are structurally safe and valid.
 
 ### EP — Emotional Physics
-A descriptive and corrective framework examining how emotional energy behaves in human systems, especially under unsafe conditions, and how recovery becomes possible.
+
+A framework examining how emotional energy behaves in human systems and how recovery becomes possible.
 
 ### Societal Thermodynamics
-A systems-level theory proposing that safety functions as the thermodynamic substrate of civilization, influencing entropy, cooperation, and civilizational stability.
+
+A theory proposing that safety functions as the thermodynamic substrate of civilization.
 
 ---
 
-## Purpose
+# Purpose
 
 ACL is not a commercial venture.
 
@@ -41,21 +131,49 @@ to provide civilization-scale tools for safety, diagnosis, and repair that stand
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 /gss — Global Safety Standards and the SaDi framework  
-/ep — Emotional Physics foundations, diagnostics, and correction paths  
-/dissertations — Foundational theoretical work including Emotional Physics and Societal Thermodynamics  
-/roadmap — Chapter maps and planned expansions  
-/archive — Historical drafts and retained notes
+/ep — Emotional Physics foundations  
+/dissertations — theoretical work including Emotional Physics and Societal Thermodynamics  
+/roadmap — planned expansions  
+/archive — historical drafts
 
 ---
 
-## Canonical Context
+# ACL Research Ecosystem
 
-This repository is part of the Applied Consciousness Lab (ACL) public research ecosystem.
+Primary repositories:
 
-All systems, subsystems, and doctrines herein assume prior satisfaction of the Global Safety Standard (GSS), a foundational safety primitive originally formulated under the Applied Safety Lab (ASL) framework and maintained, governed, and published by Applied Consciousness Lab (ACL).
+ACL  
+https://github.com/AppliedConsciousnessLab/ACL
+
+ACL 10 Rules  
+https://github.com/AppliedConsciousnessLab/acl-10-rules
+
+ASL Design Spine  
+https://github.com/AppliedConsciousnessLab/asl-design-spine
+
+CARE / PAYBACK  
+https://github.com/AppliedConsciousnessLab/CARE-PAYBACK-by-ACL
+
+Emotional Physics  
+https://github.com/AppliedConsciousnessLab/EP-by-ACL
+
+Global Safety Standard  
+https://github.com/AppliedConsciousnessLab/GSS-by-ACL
+
+Societal Thermodynamics  
+https://github.com/AppliedConsciousnessLab/SOCIETAL_THERMODYNAMICS
+
+Testing Theories  
+https://github.com/AppliedConsciousnessLab/Testing-Theories
+
+---
+
+# Canonical Context
+
+All systems herein assume prior satisfaction of the **Global Safety Standard (GSS)**.
 
 Safety precedes regulation.  
 Regulation precedes agency.  
@@ -65,16 +183,16 @@ This ordering is non-negotiable.
 
 ---
 
-## Principles
+# Principles
 
 Safety is foundational, not optional  
 Diagnosis precedes correction  
 Repair is possible when safety is restored  
-Authority is derived from structure and evidence, not identity
+Authority derives from structure and evidence
 
 ---
 
-## Use
+# Use
 
 This work is intended to be:
 
@@ -84,46 +202,37 @@ challenged
 cited  
 adapted
 
-No permission is required beyond attribution.
+No permission required beyond attribution.
 
 ---
 
-## Citation
-
-If referencing or building upon this work, please cite:
+# Citation
 
 Bradley Buchner Kurtis  
-Applied Consciousness Lab (ACL)  
-Global Safety Standard (GSS) and Emotional Physics Framework  
+Applied Consciousness Lab (ACL)
 
-Repository:
+Frameworks:
+
+Global Safety Standard (GSS)  
+Emotional Physics (EP)  
+Societal Thermodynamics
 
 https://github.com/AppliedConsciousnessLab
 
 ---
 
-## License
+# License
 
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA)
+Creative Commons Attribution-ShareAlike 4.0
 
-You are free to:
-
-Share — copy and redistribute the material in any medium or format.  
-Adapt — remix, transform, and build upon the material.
-
-Under the following terms:
-
-Attribution — You must give appropriate credit to Applied Consciousness Lab (ACL).  
-ShareAlike — Derivative works must use the same license.
+https://creativecommons.org/licenses/by-sa/4.0/
 
 © Applied Consciousness Lab (ACL)
 
 ---
 
-## Support GSS by ACL
+# Support GSS by ACL
 
-GSS by ACL is free and open for the world.
-
-If you wish to support the research, publishing, translations, and safety work that keeps it alive, visit:
+Support ongoing research and publishing:
 
 https://github.com/AppliedConsciousnessLab/GSS-by-ACL/blob/main/SUPPORT.md
