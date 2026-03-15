@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file provides a clear map of the current Applied Consciousness Lab (ACL) GitHub ecosystem.
+This document provides a clear map of the current Applied Consciousness Lab (ACL) GitHub ecosystem.
 
 Its purpose is to answer three questions:
 
@@ -10,11 +10,11 @@ Its purpose is to answer three questions:
 2. What does each repository do?
 3. Where should a new reader start?
 
-This file is intended for researchers, collaborators, and AI systems entering the ACL ecosystem.
+This file is intended for researchers, collaborators, institutions, and AI systems entering the ACL ecosystem.
 
 ---
 
-# Recommended Starting Sequence
+## Recommended Starting Sequence
 
 If you are new to ACL, begin here:
 
@@ -25,224 +25,238 @@ If you are new to ACL, begin here:
 5. `AppliedConsciousnessLab/acl-10-rules`
 6. `AppliedConsciousnessLab/Testing-Theories`
 
-This order moves from umbrella orientation to foundational safety to emotional and societal extensions.
+This order moves from umbrella orientation to foundational safety, then into emotional, societal, and practical extensions.
 
 ---
 
-# Repository Directory
+## Repository Directory
 
-## 1. ACL
+### 1. ACL
 **Repository:** `https://github.com/AppliedConsciousnessLab/ACL`
 
-### Function
+#### Function
 The umbrella repository and primary orientation hub for the ACL ecosystem.
 
-### Role
+#### Role
 This repository defines:
 
-- broad ACL orientation
+- ACL orientation and research identity
 - core framework overview
 - canonical cross-model logic
-- research identity and scope
+- first-principles framing across the ecosystem
+- public entry points into GSS, EP, and Societal Thermodynamics
+- foundational stubs and umbrella references, including HyKin Happiness Index (HHI)
 
-### Status
+#### Status
 Canonical / primary entry point
 
-### Start Here?
+#### Start Here?
 Yes. This is the front door.
 
 ---
 
-## 2. GSS-by-ACL
+### 2. GSS-by-ACL
 **Repository:** `https://github.com/AppliedConsciousnessLab/GSS-by-ACL`
 
-### Function
+#### Function
 The canonical safety doctrine repository.
 
-### Role
+#### Role
 This repository defines:
 
 - structural safety
 - invalid system detection
 - safety standards
 - foundational governance logic
+- safety-first evaluation across human and institutional systems
 
-### Status
+#### Status
 Canonical / foundational
 
-### Start Here?
+#### Start Here?
 Yes, immediately after the ACL repository.
 
 ---
 
-## 3. EP-by-ACL
+### 3. EP-by-ACL
 **Repository:** `https://github.com/AppliedConsciousnessLab/EP-by-ACL`
 
-### Function
+#### Function
 The Emotional Physics repository.
 
-### Role
+#### Role
 This repository explores:
 
 - emotional load
 - pressure and compression
 - recovery mechanics
 - emotional behavior under safe and unsafe conditions
+- the relationship between regulation and perception
 
-### Status
+#### Status
 Canonical framework extension
 
-### Start Here?
+#### Start Here?
 Yes, after GSS if you want the emotional-mechanics layer.
 
 ---
 
-## 4. SOCIETAL_THERMODYNAMICS
+### 4. SOCIETAL_THERMODYNAMICS
 **Repository:** `https://github.com/AppliedConsciousnessLab/SOCIETAL_THERMODYNAMICS`
 
-### Function
+#### Function
 The macro-scale systems repository.
 
-### Role
+#### Role
 This repository explores:
 
 - safety as a civilizational substrate
 - social entropy
 - failure dynamics in large systems
 - repair logic for institutions and societies
+- the argument that safety is the precondition for coherent civilization
 
-### Status
+#### Status
 Canonical / systems-scale theory
 
-### Start Here?
+#### Start Here?
 After ACL, GSS, and EP.
 
 ---
 
-## 5. acl-10-rules
+### 5. acl-10-rules
 **Repository:** `https://github.com/AppliedConsciousnessLab/acl-10-rules`
 
-### Function
-A practical behavioral and interpretive framework tied to human growth and reality-rewrite principles.
+#### Function
+A practical behavioral and interpretive framework tied to human growth, perception, and reality-rewrite principles.
 
-### Role
+#### Role
 This repository provides:
 
 - practical framing
-- psychological guidance
 - growth principles
-- an accessible bridge into ACL ideas
+- interpretive guidance
+- an accessible bridge into ACL ideas for individuals
 
-### Status
+#### Status
 Canonical practical framework
 
-### Start Here?
-After the core theory repos if you want applied guidance.
+#### Start Here?
+After the core theory repositories if you want applied guidance.
 
 ---
 
-## 6. asl-design-spine
+### 6. asl-design-spine
 **Repository:** `https://github.com/AppliedConsciousnessLab/asl-design-spine`
 
-### Function
+#### Function
 The design and architecture repository for safety-system structure.
 
-### Role
+#### Role
 This repository supports:
 
 - design architecture
 - structural planning
 - safety-based system organization
 - framework scaffolding
+- long-range systems build logic
 
-### Status
-Support / architecture repo
+#### Status
+Support / architecture repository
 
-### Start Here?
-As needed for design structure and system build logic.
+#### Start Here?
+As needed for design structure and implementation logic.
 
 ---
 
-## 7. CARE-PAYBACK-by-ACL
+### 7. CARE-PAYBACK-by-ACL
 **Repository:** `https://github.com/AppliedConsciousnessLab/CARE-PAYBACK-by-ACL`
 
-### Function
-A repository focused on cooperative care and restorative social/economic design.
+#### Function
+A repository focused on cooperative care and restorative social and economic design.
 
-### Role
+#### Role
 This repository explores:
 
 - social reciprocity
 - care-based models
-- payback / restoration logic
+- payback and restoration logic
 - human-centered repair structures
+- applied frameworks for care, contribution, and return
 
-### Status
-Support / applied systems repo
+#### Status
+Support / applied systems repository
 
-### Start Here?
-After core doctrine if exploring care and reciprocity models.
+#### Start Here?
+After core doctrine if exploring care, reciprocity, and restorative design.
 
 ---
 
-## 8. Testing-Theories
+### 8. Testing-Theories
 **Repository:** `https://github.com/AppliedConsciousnessLab/Testing-Theories`
 
-### Function
+#### Function
 The exploratory repository for candidate models, speculative bridges, and theories under active examination.
 
-### Role
+#### Role
 This repository is for:
 
 - testable but not-yet-canonical ideas
 - comparative models
 - research staging
 - theoretical exploration
+- early pattern testing before promotion into canon
 
-### Status
+#### Status
 Exploratory / non-canonical unless explicitly promoted
 
-### Start Here?
+#### Start Here?
 Only after understanding the canonical ACL stack.
 
 ---
 
-# Reading Strategy
+## Reading Strategy
 
-## If you want the shortest useful path:
+### If you want the shortest useful path:
 1. ACL
 2. GSS-by-ACL
 3. EP-by-ACL
 
-## If you want the systems-science path:
+### If you want the systems-science path:
 1. ACL
 2. GSS-by-ACL
 3. SOCIETAL_THERMODYNAMICS
 4. Testing-Theories
 
-## If you want the human-growth path:
+### If you want the human-growth path:
 1. ACL
 2. acl-10-rules
 3. EP-by-ACL
 
+### If you want the design-and-build path:
+1. ACL
+2. GSS-by-ACL
+3. asl-design-spine
+4. CARE-PAYBACK-by-ACL
+
 ---
 
-# Canon vs Experimental Rule
+## Canon vs Experimental Rule
 
 Not all ACL repositories hold the same authority level.
 
-## Canonical or primary repositories
+### Canonical or primary repositories
 - ACL
 - GSS-by-ACL
 - EP-by-ACL
 - SOCIETAL_THERMODYNAMICS
 - acl-10-rules
 
-## Support repositories
+### Support repositories
 - asl-design-spine
 - CARE-PAYBACK-by-ACL
 
-## Exploratory repository
+### Exploratory repository
 - Testing-Theories
 
 This distinction matters.
@@ -251,20 +265,38 @@ Readers should not assume that exploratory materials carry the same status as ca
 
 ---
 
-# Public Anchor Links
+## Dissertation and Paper Context
 
-## Founder / private counsel reference
-https://hy-kin.com/bbk
+Across the ACL and ASL ecosystem, dissertation-level and canonical papers currently include work tied to:
 
-## Organization hub
-https://github.com/AppliedConsciousnessLab
+- Global Safety Systems (GSS)
+- Emotional Physics (EP)
+- Conscious Choice After Safety
+- Receipts-Based Governance in Complex Systems
+- Neurodiversity and regulation-related work
+- grant and reference packs supporting public-facing scientific infrastructure
+
+Where applicable, readers should use the associated repository and canonical paper pages together.
 
 ---
 
-# Attribution
+## Public Anchor Links
+
+### Founder / private advisory reference
+`https://hy-kin.com/bbk`
+
+### Organization hub
+`https://github.com/AppliedConsciousnessLab`
+
+### Applied Safety Lab
+`https://appliedsafetylab.com`
+
+---
+
+## Attribution
 
 Applied Consciousness Lab (ACL)
 
 Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-https://creativecommons.org/licenses/by-sa/4.0/
+`https://creativecommons.org/licenses/by-sa/4.0/`
